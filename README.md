@@ -1,2 +1,2 @@
 # Java-codes
-This includes some basics java and some java experiments
+This includes some basics and java experiments
